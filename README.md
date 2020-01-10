@@ -1,3 +1,5 @@
+# Functionality MERGED into https://lab.civicrm.org/extensions/msgtplblocker
+
 # Email Receipts
 
 CiviCRM does not record an activity when an email receipt is sent out so it can be very difficult to tell if a receipt has been sent (or re-sent).
